@@ -1,4 +1,4 @@
-# DecCalendar
+# DBoard
  Demonstration application for DecTree
 
 There are a few core commands: add, get, rm, save, load, list, delete, clear.
